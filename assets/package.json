@@ -3,6 +3,7 @@
         "build": "webpack"
     },
     "dependencies": {
+        "vue": "^2.6.8",
         "webpack": "^4.29.6",
         "webpack-cli": "^3.2.3"
     }
